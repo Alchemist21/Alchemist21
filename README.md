@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Louell currently in NYC. I do content creation and Web Development especially NFTs and Defi related. I love learning new frameworks especially NextJS. Feel free to check my twitter https://twitter.com/blockchain4med and my youtube channel https://www.youtube.com/channel/UCDEH3NL9u8_6BLPHcZEacOA 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alchemist21&show_icons=true&theme=radical)
+
+
+
 <!--
 **Alchemist21/Alchemist21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
