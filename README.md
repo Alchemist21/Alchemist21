@@ -2,16 +2,16 @@
 
 I'm Louell and I love Web Development and everything Blockchain related especially NFTs, Defi's and DAO's. I enjoy learning new frameworks especially NextJS ReactJs or basically anything JS including D3.JS. 
  
-🔭 I’m currently working on Startups
-🌱 Currently Learning: Solidity || NextJS
-👯 I’m looking to collaborate on: NFTs || Defi || Startup Funding
-🔮 I’m looking for: Full Stack Developers to partner 
-💬 Ask me about: Blockchain
-📫 Twitter: @blockchain4med
-📫 LinkedIn: louells
-📫 Youtube: Dr. Louell L. Sala 
-📫 How to reach me: medtechsolutionsio@gmail.com
-⚡ Fun fact: The human brain weighs only 3 lbs
+- 🔭 I’m currently working on Startups
+- 🌱 Currently Learning: Solidity || NextJS
+- 👯 I’m looking to collaborate on: NFTs || Defi || Startup Funding
+- 🔮 I’m looking for: Full Stack Developers to partner 
+- 💬 Ask me about: NFTs and Startups
+- 📫 Twitter: @blockchain4med
+- 📫 LinkedIn: louells
+- 📫 Youtube: Dr. Louell L. Sala 
+- 📫 How to reach me: medtechsolutionsio@gmail.com
+- ⚡ Fun fact: The human brain weighs only 3 lbs
 
 ![Louell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alchemist21&show_icons=true&theme=radical)
 
