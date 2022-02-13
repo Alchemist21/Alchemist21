@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Louell and I do Web Development and Content Creation. I love everything Blockchain related especially NFTs, Defi's and DAO's. I enjoy learning new frameworks especially NextJS. 
-## Feel free to check my 
-## Twitter https://twitter.com/blockchain4med and  
-youtube channel https://www.youtube.com/channel/UCDEH3NL9u8_6BLPHcZEacOA 
+I'm Louell and I love Web Development and everything Blockchain related especially NFTs, Defi's and DAO's. I enjoy learning new frameworks especially NextJS ReactJs. 
+## Feel free to check  
+## Twitter https://twitter.com/blockchain4med   
+## youtube channel https://www.youtube.com/channel/UCDEH3NL9u8_6BLPHcZEacOA 
 
 
 ![Louell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alchemist21&show_icons=true&theme=radical)
