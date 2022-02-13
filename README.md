@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm Louell and I love everything Blockchain related like NFTs, Defi's and DAO's. I enjoy learning new frameworks most notably NextJS ReactJs or basically anything JS including D3.JS. 
+I'm Louell and I love everything Blockchain related like NFTs, Defi's and DAO's. I enjoy learning new frameworks most notably NextJS ReactJs or basically anything JS including D3JS. 
  
 - 🔭 I’m currently working on Startups
 - 🌱 Currently Learning: Solidity || NextJS
 - 👯 I’m looking to collaborate on: NFTs || Defi || Startup Funding
-- 🔮 I’m looking for: Full Stack Developers to partner 
+- 🔮 I’m looking for: Full Stack Developers || PMs || Investors || Community Managers 
 - 💬 Ask me about: NFTs and Startups
 - 📫 Twitter: @blockchain4med
 - 📫 LinkedIn: louells
