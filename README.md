@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Louell and I love everything Blockchain related like NFTs, Defi's and DAO's. I enjoy learning Hackathons, new friends and frameworks most notably NextJS ReactJs or basically anything JS including D3JS. 
+I'm Louell and I love everything Blockchain related like NFTs, Defi's and DAO's. I enjoy joining Hackathons, meeting new friends and learning frameworks such as NextJS ReactJs or basically anything JS including D3JS. 
  
 - 🔭 I’m currently working on Startups
 - 🌱 Currently Learning: Solidity || NextJS
