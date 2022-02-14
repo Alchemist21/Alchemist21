@@ -1,6 +1,6 @@
 ## Hello beautiful people of the Internet 👋
 
-I'm Louell and I love Coding. I enjoy learning about NFTs, Digital Identity, Metaverse, AR/VR, Defi's and DAO's. I love Hackathons, Iterating problems and learning new frameworks whether it be web applications, social science or even healthcare. I mean the principles are the same. Oh, and I have a Medical Degree. 
+I'm Louell and I love Coding. I enjoy learning about NFTs, Digital Identity, Metaverse, AR/VR, Defi's and DAO's. I love Hackathons, Iterating problems and learning new frameworks whether it be web applications, social science or even healthcare. Oh, and I have a Medical Degree. 
  
 - 🔭 I’m currently working on Startups
 - 🌱 Currently Studying: Any Javascript Library I fancy with a dash of Solidity and CSS
