@@ -5,7 +5,7 @@ I'm Louell and I love Coding. I enjoy learning about NFTs, Digital Identity, Met
 - 🔭 I’m currently working on Startups
 - 🌱 Currently Studying: Any Javascript Library I fancy with a dash of Solidity and CSS
 - 👯 I’m looking to collaborate on/with: NFTs || Defi || DAOs || AR/VR || Startup Founders
-- 🔮 I’m looking for: Full Stack Developers || PMs || Founders || Investors || Community Managers 
+- 🔮 I’m looking for: Founders || Full Stack Developers || PMs || Investors || Community Managers 
 - 💬 Ask me about: NFTs and Startups
 - 📫 Twitter: @blockchain4med
 - 📫 LinkedIn: louells
