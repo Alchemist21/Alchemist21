@@ -4,8 +4,8 @@ I'm Louell and I love everything Blockchain - things like NFTs, Identity, Defi's
  
 - 🔭 I’m currently working on Startups
 - 🌱 Currently Studying: Solidity || NextJS || Any Javascript Library that I fancy
-- 👯 I’m looking to collaborate on: NFTs || Defi || Startups
-- 🔮 I’m looking for: Full Stack Developers || PMs || Investors || Community Managers 
+- 👯 I’m looking to collaborate on: NFTs || Defi || Startup Founders
+- 🔮 I’m looking for: Full Stack Developers || PMs || Founders || Investors || Community Managers 
 - 💬 Ask me about: NFTs and Startups
 - 📫 Twitter: @blockchain4med
 - 📫 LinkedIn: louells
