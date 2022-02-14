@@ -3,7 +3,7 @@
 I'm Louell and I love everything Blockchain - things like NFTs, Identity, Defi's and DAO's. I enjoy being part of Hackathons, meeting people and learning new frameworks such as NextJS, ReactJs or basically anything JS including but not limited to D3JS. 
  
 - 🔭 I’m currently working on Startups
-- 🌱 Currently Studying: Solidity || NextJS || Any Javascript Library that I fancy
+- 🌱 Currently Studying: Solidity || NextJS || Any Javascript Library I fancy
 - 👯 I’m looking to collaborate on: NFTs || Defi || Startup Founders
 - 🔮 I’m looking for: Full Stack Developers || PMs || Founders || Investors || Community Managers 
 - 💬 Ask me about: NFTs and Startups
