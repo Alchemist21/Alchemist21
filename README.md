@@ -2,11 +2,11 @@
 
 I'm Louell and I love Coding. I enjoy learning about NFTs, Digital Identity, Metaverse, AR/VR, Defi's and DAO's. I love Hackathons, Iterating problems and learning new frameworks whether it be web applications, social science or even healthcare. Oh, and I have a Medical Degree. 
  
-- 🔭 I’m currently working on Front End with Startups
+- 🔭 I’m currently working on Front End Frameworks and Startups
 - 🌱 Currently Studying: Any Javascript Library I fancy with a dash of Solidity and CSS
 - 👯 I’m looking to collaborate on/with: NFTs || Defi || DAOs || AR/VR || Startup Founders
 - 🔮 I’m looking for: Startup Founders || Full Stack and Solidity Developers || Investors  
-- 💬 Ask me about: Startups 
+- 💬 Ask me about: Front End Frameworks || Startups 
 - 📫 Twitter: https://twitter.com/blockchain4med
 - 📫 LinkedIn: https://www.linkedin.com/in/louells/
 - 📫 Youtube: https://www.youtube.com/channel/UCDEH3NL9u8_6BLPHcZEacOA?sub_confirmation=1
