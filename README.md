@@ -7,9 +7,9 @@ I'm Louell and I love Coding. I enjoy learning about NFTs, Digital Identity, Met
 - 👯 I’m looking to collaborate on/with: NFTs || Defi || DAOs || AR/VR || Startup Founders
 - 🔮 I’m looking for: Startup Founders || Full Stack and Solidity Developers || Investors  
 - 💬 Ask me about: NFTs and Startups
-- 📫 Twitter: @blockchain4med
-- 📫 LinkedIn: louells
-- 📫 Youtube: Dr. Louell L. Sala 
+- 📫 Twitter: https://twitter.com/blockchain4med
+- 📫 LinkedIn: https://www.linkedin.com/in/louells/
+- 📫 Youtube: https://www.youtube.com/channel/UCDEH3NL9u8_6BLPHcZEacOA?sub_confirmation=1
 - 📫 How to reach me: louell_sala@yahoo.com
 - 📫 Meetup Groups: 
  - https://www.meetup.com/new-york-arts-culture-and-technology/  
