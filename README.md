@@ -11,6 +11,7 @@ I'm Louell and I love Coding. I enjoy learning about NFTs, Digital Identity, Met
 - 📫 LinkedIn: louells
 - 📫 Youtube: Dr. Louell L. Sala 
 - 📫 How to reach me: louell_sala@yahoo.com
+- 📫 Meetup Groups: https://www.meetup.com/new-york-arts-culture-and-technology/ and https://www.meetup.com/nyc-emerging-healthcare-technology/
 - ⚡ Fun fact: The human brain weighs only 3 lbs
 
 ![Louell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alchemist21&show_icons=true&theme=radical)
