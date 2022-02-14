@@ -1,4 +1,4 @@
-## Hello beautiful people in the Interner 👋
+## Hello beautiful people in the Internet 👋
 
 I'm Louell and I love everything Blockchain related like NFTs, Defi's and DAO's. I enjoy Hackathons, meeting new friends and learning frameworks such as NextJS, ReactJs or basically anything JS including but not limited to D3JS. 
  
