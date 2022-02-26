@@ -3,7 +3,7 @@
 I love working on NFTs, Digital Identity, Metaverse, AR/VR, Defi's and DAO's, Hackathons and Iterating problems with StartUps. 
 
 - 🔭 I’m currently working on Front End Frameworks and Startups
-- 🌱 Currently Studying: React360 with a dash of Solidity
+- 🌱 Currently Studying: React360 
 - 👯 I’m looking to collaborate on/with: NFTs || Defi || DAOs || AR/VR || Startup Founders
 - 🔮 I’m looking for: Startup Founders || Full Stack and Solidity Developers || Investors  
 - 💬 Ask me about: Front End Frameworks || Ethereum || Polygon || Startups 
