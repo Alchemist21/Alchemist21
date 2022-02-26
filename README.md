@@ -1,6 +1,6 @@
 ## Hello beautiful people of the Internet 👋
 
-I'm Louell and I love working on NFTs, Digital Identity, Metaverse, AR/VR, Defi's and DAO's, Hackathons and Iterating problems with StartUps. 
+I love working on NFTs, Digital Identity, Metaverse, AR/VR, Defi's and DAO's, Hackathons and Iterating problems with StartUps. 
 
 - 🔭 I’m currently working on Front End Frameworks and Startups
 - 🌱 Currently Studying: React360 with a dash of Solidity
