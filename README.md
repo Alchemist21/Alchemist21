@@ -1,4 +1,4 @@
-## Hello beautiful people of the Internet 👋
+## Hello 👋
 
 I love working on NFTs, Digital Identity, Metaverse, AR/VR, Defi's and DAO's, Hackathons and Iterating problems with StartUps. 
 
