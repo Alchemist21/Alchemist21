@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I love working on NFTs, Digital Identity, Metaverse, AR/VR, Defi's and DAO's, Hackathons and Iterating problems with StartUps. 
+Web Developer helping Startups focused on NFTs, Digital Identity, Metaverse, AR/VR, Defi's and DAO's. Loves Hackathons and Creating Solutions for StartUps. 
 
 - 🔭 I’m currently working on Front End Frameworks and Startups
 - 🌱 Currently Studying: React360 
