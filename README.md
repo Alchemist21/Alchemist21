@@ -1,4 +1,4 @@
-## Hello 👋
+## Hi there 👋
 
 Web Developer helping Startups focused on NFTs, Digital Identity, Metaverse, AR/VR, Defi's and DAO's. Loves Hackathons and Creating Solutions for StartUps. 
 
