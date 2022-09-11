@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-Web Developer helping Startups focused on NFTs, Digital Identity, Metaverse, AR/VR, Defi's and DAO's. Loves Hackathons and Creating Solutions for StartUps. 
+Passionate, data-driven manager with experience leading cross-functional and diverse teams to plan, build, launch and manage award winning and world class innovative projects. Blend technology skills with extensive experience in API Integration, JavaScript, ReactJS, NextJS, Git/Github, HTML5, CSS3, Solidity, Ethereum and Polygon blockchain deployment, a marketing orientation and analytical abilities to evolve product strategy. 
+
+Substantial experience in liaising between different stakeholders including government regulatory institutions, pharmaceutical, physician groups, business and software engineer communities.
+
+Proficient in Microsoft Products, Figma, Canva, Youtube Studio, SQL, SEO, and Google analytics
 
 - 🔭 I’m currently working on Front End Frameworks and Startups
 - 🌱 Currently Studying: React360 
