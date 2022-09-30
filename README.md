@@ -7,8 +7,6 @@ Extensive experience in liaising between different stakeholders including govern
 Proficient in Microsoft Products, Figma, Canva, Youtube Studio, SQL, SEO, and Google analytics
 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/LT6ZhPagaKp2LdVLfz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nasa-astronauts-artemis-nasagifs-LT6ZhPagaKp2LdVLfz">via GIPHY</a></p>
-
 
 - 🔭 I’m currently working on Front End Frameworks and Startups
 - 🌱 Currently Studying: React360 
