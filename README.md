@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a data-driven manager with experience leading cross-functional and diverse teams to plan, build, launch and manage award winning innovative projects. Blend latest technology with substantial experience in API Integration, JavaScript, ReactJS, NextJS, Git/Github, HTML5, CSS3, Solidity, Ethereum and Polygon blockchain deployment, a marketing orientation and analytical abilities, to evolve product strategy. 
+I'm a data-driven manager with experience leading cross-functional and diverse teams to organize, plan, build, launch and manage award winning innovative projects. Blend latest technology with substantial experience in API Integration, JavaScript, ReactJS, NextJS, Git/Github, HTML5, CSS3, Solidity, Ethereum and Polygon blockchain deployment, a marketing orientation and analytical abilities, to evolve product strategy. 
 
 Extensive experience in liaising between different stakeholders including government regulatory institutions, pharmaceutical, physician groups, business and software engineer communities.
 
