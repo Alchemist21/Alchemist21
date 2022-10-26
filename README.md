@@ -16,6 +16,8 @@ Proficient in Microsoft Products, Figma, Canva, Youtube Studio, SQL, SEO, and Go
 - 📫 Twitter: https://twitter.com/blockchain4med
 - 📫 LinkedIn: https://www.linkedin.com/in/louells/
 - 📫 Youtube: https://www.youtube.com/channel/UCDEH3NL9u8_6BLPHcZEacOA?sub_confirmation=1
+              https://www.youtube.com/watch?v=epi42sgjFa8
+              
 - 📫 How to reach me: louell_sala@yahoo.com
 
 - ⚡ Fun fact: The human brain weighs only 3 lbs
