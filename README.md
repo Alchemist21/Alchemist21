@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a data-driven manager with experience leading cross-functional and diverse teams to organize, plan, build, launch and manage award winning innovative projects. Blend latest technology with substantial experience in API Integration, JavaScript, ReactJS, NextJS, Git/Github, HTML5, CSS3, Solidity, Ethereum and Polygon blockchain deployment, a marketing orientation and analytical abilities, to evolve product strategy. 
+Data-driven manager with experience leading cross-functional and diverse teams to organize, plan, build, launch and manage award winning innovative projects. Blend latest technology with substantial experience in API Integration, JavaScript, ReactJS, NextJS, Git/Github, HTML5, CSS3, Solidity, Ethereum and Polygon blockchain deployment, a marketing orientation and analytical abilities, to evolve product strategy. 
 
 Extensive experience in liaising between different stakeholders including government regulatory institutions, pharmaceutical, physician groups, business and software engineer communities.
 
@@ -8,13 +8,20 @@ Proficient in Microsoft Products, Figma, Canva, Youtube Studio, SQL, SEO, and Go
 
 
 
-- 🔭 I’m currently working on Front End Frameworks and Startups
+- 🔭 I’m currently working as Financial Professional helping induviduals and businesses with long term care and retirement options (https://www.newyorklife.com/agent/llsala)
+
 - 🌱 Currently Studying: React360 
+
 - 👯 I’m looking to collaborate on/with: NFTs || Defi || DAOs || AR/VR || Startup Founders
+
 - 🔮 I’m looking for: Startup Founders || Full Stack and Solidity Developers || Investors  
+
 - 💬 Ask me about: Front End Frameworks || Ethereum || Polygon || Startups 
+
 - 📫 Twitter: https://twitter.com/blockchain4med
+
 - 📫 LinkedIn: https://www.linkedin.com/in/louells/
+
 - 📫 Youtube: https://www.youtube.com/channel/UCDEH3NL9u8_6BLPHcZEacOA?sub_confirmation=1
               https://www.youtube.com/watch?v=epi42sgjFa8
               
