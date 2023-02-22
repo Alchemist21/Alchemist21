@@ -8,7 +8,7 @@ Proficient in Microsoft Products, Figma, Canva, Youtube Studio, SQL, SEO, and Go
 
 
 
-- 🔭 I’m currently working as Financial Professional helping induviduals and businesses with long term care and retirement options (https://www.newyorklife.com/agent/llsala)
+- 🔭 I’m currently working as Financial Professional helping individuals and business owners with long term care and retirement options (https://www.newyorklife.com/agent/llsala)
 
 - 🌱 Currently Studying: React360 
 
