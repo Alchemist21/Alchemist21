@@ -7,9 +7,6 @@ Extensive experience in liaising between different stakeholders including govern
 Proficient in Microsoft Products, Figma, Canva, Youtube Studio, SQL, SEO, and Google analytics
 
 
-
-- 🔭 I’m currently working as Financial Professional helping individuals and business owners with long term care and retirement options (https://www.newyorklife.com/agent/llsala)
-
 - 🌱 Currently Studying: React360 
 
 - 👯 I’m looking to collaborate on/with: NFTs || Defi || DAOs || AR/VR || Startup Founders
