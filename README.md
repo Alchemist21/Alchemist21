@@ -2,7 +2,7 @@
 
 - 🌱 Currently Studying: React360 
 
-- 👯 I’m looking to collaborate on/with: NFTs || Defi || DAOs || AR/VR || Startup Founders
+- 👯 I’m looking to collaborate on/with: Developers || Startup Founders
 
 - 🔮 I’m looking for: Startup Founders || Full Stack and Solidity Developers || Investors  
 
