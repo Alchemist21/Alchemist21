@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 Currently Studying: React360 
+- 🌱 Currently Studying: React360 | C++ | Cobol
 
 - 👯 I’m looking to collaborate on/with: Developers || Startup Founders
 
