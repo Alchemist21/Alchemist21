@@ -8,8 +8,6 @@
 
 - 💬 Ask me about: Front End Frameworks || Ethereum || Polygon || Startups 
 
-- 📫 Twitter: https://twitter.com/blockchain4med
-
 - 📫 LinkedIn: https://www.linkedin.com/in/louells/
 
 - 📫 Youtube: https://www.youtube.com/channel/UCDEH3NL9u8_6BLPHcZEacOA?sub_confirmation=1
