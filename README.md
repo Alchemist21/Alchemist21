@@ -1,6 +1,4 @@
         
-<img src="https://komarev.com/ghpvc/?username=Alchemist21&label=Profile%20views&color=ce9927&style=flat" alt="Alchemist21" /> </p>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Hello+there+my+name+is+Louell;I'm+a+Full+Stack+Web+Developer;with+a+penchant+for;Product+Development,;Financial+Modeling,;Community+Engagement;and+of+course+Poetry" alt="Typing SVG" />
 
 
@@ -33,6 +31,7 @@
 <a href="https://github.com/Alchemist21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alchemist21&show_icons=true&theme=radical"> </a> 
 <a href="https://github.com/Alchemist21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alchemist21&layout=compact"> </a> 
 
+<img src="https://komarev.com/ghpvc/?username=Alchemist21&label=Profile%20views&color=ce9927&style=flat" alt="Alchemist21" /> </p>
 
 <!--
 **Alchemist21/Alchemist21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
