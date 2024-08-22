@@ -1,6 +1,8 @@
-<h1 align="center">👋 Hello, I'm Louell </h1>
+<h1 align="left">👋 Hello, I'm Louell </h1>
 
-<p align="center">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="Alchemist21" /> </p>
+
+<p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Web+Developer;Product+Management;Community+Engagement;Regulatory+Affairs;Startup+Funding;" alt="Typing SVG" />
 
 ###
@@ -31,7 +33,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alchemist21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="Alchemist21" /> </p>
 
 
 <!--
