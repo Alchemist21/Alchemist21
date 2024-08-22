@@ -3,7 +3,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Web+Developer;Product+Management;Community+Engagement;Regulatory+Affairs;Startup+Funding;" alt="Typing SVG" />
 
-##About Me
+###
+
+<h2 align="center">About Me</h2>
+
+###
 
 - 🌱 Currently Studying: React360 | C++ | Cobol
 
