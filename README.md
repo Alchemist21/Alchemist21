@@ -1,11 +1,11 @@
         
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Hello+there+my+name+is+Louell;I'm+a+Full+Stack+Web+Developer;with+a+penchant+for;Product+Development,;Financial+Modeling,;Community+Engagement;and+of+course+Poetry" alt="Typing SVG" />
 
-
+###
 
 <h2 align="left">About Me</h2>
 
-https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif
+###
 
 - 🌱 Currently Studying: React360 | C++ | Cobol
 
