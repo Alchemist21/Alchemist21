@@ -22,6 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alchemist21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 <!--
