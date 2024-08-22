@@ -28,7 +28,7 @@
 - ⚡ Fun fact: The human brain weighs only 3 lbs
 
 
-| <a href="https://github.com/Alchemist21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alchemist21&show_icons=true&theme=radical"> </a> 
+<a href="https://github.com/Alchemist21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alchemist21&show_icons=true&theme=radical"> </a> 
 <a href="https://github.com/Alchemist21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alchemist21&layout=compact"> </a> 
 
 <!--
