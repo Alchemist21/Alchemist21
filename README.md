@@ -2,6 +2,7 @@
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Web+Developer;Product+Management;Community+Engagement;Regulatory+Affairs;Startup+Funding;" alt="Typing SVG" />
+</p>
 
 ###
 
