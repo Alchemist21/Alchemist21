@@ -1,7 +1,7 @@
 <img src="https://widgetbite.com/banner?title=Hello&subtitle=&backgroundpalette=twilight&fontpalette=twilight&titletransform=skew&subtitletransform=skew" width=100% height=100%/>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=My+name+is+Louell;I'm+a+Full+Stack+Web+Developer;with+a+penchant+for;Product+Development,;Financial+Modeling,;Community+Engagement;and+of+course+Poetry" alt="Typing SVG" />
 </p>
-###
+
 
 <h2 align="left">About Me</h2>
 
