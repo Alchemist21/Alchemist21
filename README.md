@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Louell </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Startups;Full-Stack+Developer;AI+ML;YouTube;Blockchain;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=ReactJS+Solidity;React360;Python;YouTube;Blockchain;" alt="Typing SVG" />
 
 
 - 🌱 Currently Studying: React360 | C++ | Cobol
