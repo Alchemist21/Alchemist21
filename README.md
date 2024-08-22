@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello, I'm Louell </h1> <p align="right"> 
+<h1 align="left">👋 Hello there, I'm Louell </h1> <p align="right"> 
         
 <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="Alchemist21" /> </p>
 
@@ -28,9 +28,12 @@
 
 - ⚡ Fun fact: The human brain weighs only 3 lbs
 
+###
+<h2 align="left"> My Stats </h2>
 
 <a href="https://github.com/Alchemist21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alchemist21&show_icons=true&theme=radical"> </a> 
 <a href="https://github.com/Alchemist21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alchemist21&layout=compact"> </a> 
+
 
 <!--
 **Alchemist21/Alchemist21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
