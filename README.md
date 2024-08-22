@@ -1,8 +1,7 @@
-<img src="https://widgetbite.com/banner?title=Hello%20there&subtitle=&backgroundpalette=twilight&fontpalette=twilight&titletransform=skew&subtitletransform=skew" width=100% height=100%/>
+![github-header-image](https://github.com/user-attachments/assets/7e58f8f6-7d04-42b4-a877-28e6341afb75)
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=My+name+is+Louell;I'm+a+Full+Stack+Web+Developer;with+a+penchant+for;Product+Development,;Financial+Modeling,;Community+Engagement;and+of+course+Poetry" alt="Typing SVG" />
 </p>
-
 
 <h2 align="left">About Me</h2>
 
@@ -35,6 +34,8 @@
 
 <!--
 **Alchemist21/Alchemist21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://widgetbite.com/banner?title=Hello%20there&subtitle=&backgroundpalette=twilight&fontpalette=twilight&titletransform=skew&subtitletransform=skew" width=100% height=100%/>
 
 Here are some ideas to get you started:
 
