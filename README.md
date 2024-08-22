@@ -29,17 +29,9 @@
 
 ![Louell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alchemist21&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alchemist21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alchemist21&layout=compact)]
 
-<div style="display: flex;">
-    <div style="flex: 50%;">
-       ![Louell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alchemist21&show_icons=true&theme=radical)
-    </div>
-    <div style="flex: 50%;">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alchemist21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
-</div>
-
+| <a href=""
 
 <!--
 **Alchemist21/Alchemist21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
