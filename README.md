@@ -22,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alchemist21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 
 
 <!--
