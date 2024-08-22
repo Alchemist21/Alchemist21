@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/user-attachments/assets/7e58f8f6-7d04-42b4-a877-28e6341afb75)
+![github-header-image (1)](https://github.com/user-attachments/assets/a9156510-5da0-41f0-9e45-073140e33925)
+
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=My+name+is+Louell;I'm+a+Full+Stack+Web+Developer;with+a+penchant+for;Product+Development,;Financial+Modeling,;Community+Engagement;and+of+course+Poetry" alt="Typing SVG" />
 </p>
