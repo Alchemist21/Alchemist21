@@ -1,7 +1,6 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/a9156510-5da0-41f0-9e45-073140e33925)
 
-[
-](https://upload.wikimedia.org/wikipedia/commons/0/0c/DNA_animation.gif)
+![dna](https://upload.wikimedia.org/wikipedia/commons/0/0c/DNA_animation.gif)
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=My+name+is+Louell;I'm+a+Full+Stack+Web+Developer;with+a+penchant+for;Product+Development,;Financial+Modeling,;Community+Engagement;and+of+course+Poetry" alt="Typing SVG" />
 </p>
