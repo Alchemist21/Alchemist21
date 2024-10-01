@@ -2,9 +2,7 @@
 </p>
 
 <div align="center">
-
         ![dna](https://upload.wikimedia.org/wikipedia/commons/b/be/Kuensting_replication_color.gif)
-
 </div>
 
 <h2 align="left">About Me</h2>
