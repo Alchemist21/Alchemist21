@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Kuensting_replication_color.gif" alt="A cool GIF" />
+  <img src="https://i0.wp.com/www.artofthecell.com/wp-content/uploads/2014/10/Art-of-the-Cell-RNA-Polymerase.gif?ssl=1" alt="molecular biology" />
 </div>
 
 <h2 align="left">About Me</h2>
