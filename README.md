@@ -4,6 +4,9 @@
 
 ![dna](https://upload.wikimedia.org/wikipedia/commons/b/be/Kuensting_replication_color.gif)
 
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Kuensting_replication_color.gif" alt="A cool GIF" />
+</div>
 
 <h2 align="left">About Me</h2>
 
