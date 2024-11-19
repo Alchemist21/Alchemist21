@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Hello;My+name+is+Lou;I'm+a+Full+Stack+Web+Developer;with+a+penchant+for;Product+Development,;Community+Engagement;and+of+course+Poetry" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Hello;My+name+is+Alchemist21;I'm+a+Full+Stack+Web+Developer;with+a+penchant+for;Product+Development,;Community+Engagement;and+of+course+Poetry" alt="Typing SVG" />
 </p>
 
 
