@@ -10,14 +10,10 @@
 
 ###
 
-- 🌱 Currently Studying: React360 | C++ | Cobol
+- 🌱 Currently Studying: nothing
 
-- 👯 I’m looking to collaborate on/with: Developers || Startup Founders
-
-- 🔮 I’m looking for: Startup Founders || Full Stack and Solidity Developers || Investors  
-
-- 💬 Ask me about: Front End Frameworks || Ethereum || Polygon || Startups 
-
+- 👯 I’m looking to collaborate on/with: No one
+  
 - ⚡ Fun fact: The human brain weighs only 3 lbs
 
 ###
