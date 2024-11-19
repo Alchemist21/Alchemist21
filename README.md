@@ -18,13 +18,6 @@
 
 - 💬 Ask me about: Front End Frameworks || Ethereum || Polygon || Startups 
 
-- 📫 LinkedIn: https://www.linkedin.com/in/louells/
-
-- 📫 Youtube: https://www.youtube.com/channel/UCDEH3NL9u8_6BLPHcZEacOA?sub_confirmation=1
-        
-              
-- 📫 How to reach me: louell_sala@yahoo.com
-
 - ⚡ Fun fact: The human brain weighs only 3 lbs
 
 ###
