@@ -10,9 +10,9 @@
 
 ###
 
-- 🌱 Currently Studying: nothing
+- 🌱 Currently Studying: Cobol
 
-- 👯 I’m looking to collaborate on/with: No one
+- 👯 I’m looking to collaborate on/with: Nice people
   
 - ⚡ Fun fact: The human brain weighs only 3 lbs
 
