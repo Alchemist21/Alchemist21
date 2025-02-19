@@ -27,7 +27,7 @@
     + Blockchain for Clinical Trials https://github.com/Alchemist21/Clinical_Trial_Starter
     + Sentiment Analysis https://alchemist21.github.io/Senti/
     + Blockchain Leacture https://alchemist21.github.io/blockchainlecture/
-<br>
+
 - Awards <br>
     ✪ Winner, Inclusion and Equality Track, 2023 MIT Reality Hack <br>
     ✪ Winner, First Place, 2023 IPFS Filecoin x Gitcoin Social Hour <br>
