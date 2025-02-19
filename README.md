@@ -30,6 +30,7 @@
 
 - Awards
     ✪ Winner, Inclusion and Equality Track, 2023 MIT Reality Hack
+  
     ✪ Winner, First Place, 2023 IPFS Filecoin x Gitcoin Social Hour
     ✪ Winner, First Place, 2022 Massachusetts Institute of Technology Grand Hackathon: Hacking Medicine in Boston.
     ✪ Winner, 2022 Chainlink Fall Hackathon
