@@ -16,6 +16,19 @@
   
 - ⚡ Fun fact: The human brain weighs only 3 lbs
 
+- See some of my projects
+    + AI powered Risk Detector for Energy Contracts    https://github.com/Alchemist21/PowerIQ
+    + Benvision https://devpost.com/software/benvision
+    + Lung Cancer Prediction using Simple Machine Learning https://github.com/Alchemist21/mLungCa
+    + Spatial with Metamask https://spatialoracles-8b65a.web.app/
+    + Pixieland https://devpost.com/software/pixieland
+    + Image Classification using YOLO https://affectionate-blackwell-211345.netlify.app/
+    + THEO or Seamless B2B transaction using Double Hashing https://devpost.com/software/theo
+    + Blockchain for Clinical Trials https://github.com/Alchemist21/Clinical_Trial_Starter
+    + Sentiment Analysis https://alchemist21.github.io/Senti/
+    + Blockchain Leacture https://alchemist21.github.io/blockchainlecture/
+      
+
 ###
 <h2 align="left"> Stats </h2>
 
