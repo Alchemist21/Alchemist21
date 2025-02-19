@@ -28,22 +28,22 @@
     + Sentiment Analysis https://alchemist21.github.io/Senti/
     + Blockchain Leacture https://alchemist21.github.io/blockchainlecture/
 
-- Awards
+- Awards <br>
     ✪ Winner, Inclusion and Equality Track, 2023 MIT Reality Hack <br>
-    ✪ Winner, First Place, 2023 IPFS Filecoin x Gitcoin Social Hour
-    ✪ Winner, First Place, 2022 Massachusetts Institute of Technology Grand Hackathon: Hacking Medicine in Boston.
-    ✪ Winner, 2022 Chainlink Fall Hackathon
-    ✪ Winner, 2022 Hedera Hackathon
-    ✪ Winner, Protocol Labs Prize, 2021 EthGlobal
-    ✪ Winner, Best in NFT and Gaming, 2021 ChainLink
-    ✪ Winner, Web 3 Enabled Student Transcript and Use of Identity Index, 2021 ETHDENVER
-    ✪ Winner, 2020 MIT Hacking Racism in Healthcare for Clinical Trials
-    ✪ Winner, 2018 New York City Techstars Competition, Blockchain Edition
-    ✪ Winner, Parabellum Music Group Award, 2019 New York City Gotham Distributed Ledger Technology Competition
-    ✪ Best in Data & Security, 2019 New York City Hackfest
-    ✪ Runner up, 2019 New York City Angel Hack
-    ✪ 2nd Runner Up NYC BIGAPPS, 2019 ConsenSys Building Blocks Hackathon
-    ✪ Winner, 2018 Weil Cornell Medicine Award for Reimagining Lung Cancer in the New York City MIT Grand Hackathon: Hacking Medicine.
+    ✪ Winner, First Place, 2023 IPFS Filecoin x Gitcoin Social Hour <br>
+    ✪ Winner, First Place, 2022 Massachusetts Institute of Technology Grand Hackathon: Hacking Medicine in Boston. <br>
+    ✪ Winner, 2022 Chainlink Fall Hackathon <br>
+    ✪ Winner, 2022 Hedera Hackathon <br>
+    ✪ Winner, Protocol Labs Prize, 2021 EthGlobal <br>
+    ✪ Winner, Best in NFT and Gaming, 2021 ChainLink <br>
+    ✪ Winner, Web 3 Enabled Student Transcript and Use of Identity Index, 2021 ETHDENVER <br>
+    ✪ Winner, 2020 MIT Hacking Racism in Healthcare for Clinical Trials <br>
+    ✪ Winner, 2018 New York City Techstars Competition, Blockchain Edition <br>
+    ✪ Winner, Parabellum Music Group Award, 2019 New York City Gotham Distributed Ledger Technology Competition <br>
+    ✪ Best in Data & Security, 2019 New York City Hackfest <br>
+    ✪ Runner up, 2019 New York City Angel Hack <br>
+    ✪ 2nd Runner Up NYC BIGAPPS, 2019 ConsenSys Building Blocks Hackathon <br>
+    ✪ Winner, 2018 Weil Cornell Medicine Award for Reimagining Lung Cancer in the New York City MIT Grand Hackathon: Hacking Medicine. <br>
 
 ###
 <h2 align="left"> Stats </h2>
