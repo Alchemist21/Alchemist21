@@ -25,8 +25,9 @@
     + Image Classification using YOLO https://affectionate-blackwell-211345.netlify.app/
     + THEO or Seamless B2B transaction using Double Hashing https://devpost.com/software/theo
     + Blockchain for Clinical Trials https://github.com/Alchemist21/Clinical_Trial_Starter
-    + Sentiment Analysis https://alchemist21.github.io/Senti/
-    + Blockchain Leacture https://alchemist21.github.io/blockchainlecture/
+    + Sentiment Analysis Lecture https://alchemist21.github.io/Senti/
+    + Blockchain Lecture https://alchemist21.github.io/blockchainlecture/
+    + Youtube Video youtube.com/@TechnologyTrainor?sub_confirmation=1
 
 - Awards <br> <br>
     ✪ Winner, Inclusion and Equality Track, 2023 MIT Reality Hack <br>
