@@ -27,7 +27,7 @@
     + Blockchain for Clinical Trials https://github.com/Alchemist21/Clinical_Trial_Starter
     + Sentiment Analysis Lecture https://alchemist21.github.io/Senti/
     + Blockchain Lecture https://alchemist21.github.io/blockchainlecture/
-    + Youtube Video youtube.com/@TechnologyTrainor?sub_confirmation=1
+    + Youtube Video https://www.youtube.com/@TechnologyTrainor
 
 - Awards <br> <br>
     ✪ Winner, Inclusion and Equality Track, 2023 MIT Reality Hack <br>
