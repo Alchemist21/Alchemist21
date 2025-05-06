@@ -62,6 +62,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Alchemist21&label=Profile%20views&color=ce9927&style=flat" alt="Alchemist21" /> </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi!+I'm+YourName;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 <!--
 **Alchemist21/Alchemist21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
