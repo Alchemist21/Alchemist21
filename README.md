@@ -29,7 +29,7 @@
     + Blockchain Lecture https://alchemist21.github.io/blockchainlecture/
     + Youtube Video https://www.youtube.com/@TechnologyTrainor
 
-- Awards <br> <br>
+-  🏆 Awards <br> <br>
     ✪ Winner, Inclusion and Equality Track, 2023 MIT Reality Hack <br>
     ✪ Winner, First Place, 2023 IPFS Filecoin x Gitcoin Social Hour <br>
     ✪ Winner, First Place, 2022 Massachusetts Institute of Technology Grand Hackathon: Hacking Medicine in Boston. <br>
