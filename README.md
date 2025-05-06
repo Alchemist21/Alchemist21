@@ -16,7 +16,7 @@
   
 - ⚡ Fun fact: The human brain weighs only 3 lbs
 
-- See some of my projects
+- 🚀 Featured Projects
     + AI powered Risk Detector for Energy Contracts    https://github.com/Alchemist21/PowerIQ
     + Benvision https://devpost.com/software/benvision
     + Lung Cancer Prediction using Simple Machine Learning https://github.com/Alchemist21/mLungCa
@@ -45,8 +45,15 @@
     ✪ Runner up, 2019 New York City Angel Hack <br>
     ✪ 2nd Runner Up NYC BIGAPPS, 2019 ConsenSys Building Blocks Hackathon <br>
     ✪ Winner, 2018 Weil Cornell Medicine Award for Reimagining Lung Cancer in the New York City MIT Grand Hackathon: Hacking Medicine. <br>
+    
+## 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 
 ###
+
 <h2 align="left"> Stats </h2>
 
 <a href="https://github.com/Alchemist21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alchemist21&show_icons=true&theme=radical"> </a> 
