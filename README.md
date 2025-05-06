@@ -47,6 +47,7 @@
     ✪ Winner, 2018 Weil Cornell Medicine Award for Reimagining Lung Cancer in the New York City MIT Grand Hackathon: Hacking Medicine. <br>
     
 - 🛠️ Languages & Tools <br><br>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
