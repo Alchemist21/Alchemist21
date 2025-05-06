@@ -62,7 +62,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Alchemist21&label=Profile%20views&color=ce9927&style=flat" alt="Alchemist21" /> </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Hello;Thank+you+for+visiting;Please+follow+me+in+Linkedin;at+www/linkedIn.com/louells" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting;Please+follow+me+in+Linkedin;at+www/linkedIn.com/louells" alt="Typing SVG" />
 </p>
 
 <!--
