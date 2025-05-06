@@ -53,7 +53,7 @@
 <a href="https://github.com/Alchemist21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alchemist21&layout=compact"> </a> 
 
 <img src="https://komarev.com/ghpvc/?username=Alchemist21&label=Profile%20views&color=ce9927&style=flat" alt="Alchemist21" /> </p>
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Alchemist21.Alchemist21)
+
 
 <!--
 **Alchemist21/Alchemist21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
