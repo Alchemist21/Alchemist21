@@ -12,7 +12,7 @@
 
 - 🌱 Currently Studying: Health Informatics @Weill Cornell Graduate School of Medicine
 
-- 👯 I’m looking to collaborate on/with: Nice people
+- 👯 I’m looking to collaborate on/with: Interesting projects
   
 - ⚡ Fun fact: The human brain weighs only 3 lbs
 
