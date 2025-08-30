@@ -30,8 +30,8 @@
     + Youtube Video https://www.youtube.com/@TechnologyTrainor
 
 -  ✨ Mentor <br> <br>
-    ✪ 2025 Massachusetts Institute of Technology Reality Hack <br>
-    ✪ 2025 New Venture Accelerator, City University of New York <br>
+    + 2025 Massachusetts Institute of Technology Reality Hack <br>
+    + 2025 New Venture Accelerator, City University of New York <br>
 
 
 -  🏆 Awards <br> <br>
