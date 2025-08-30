@@ -35,21 +35,21 @@
 
 
 -  🏆 Awards <br> <br>
-    ✪ Winner, Inclusion and Equality Track, 2023 Massachusetts Institute of Technology Reality Hack <br>
-    ✪ Winner, First Place, 2023 IPFS Filecoin x Gitcoin Social Hour <br>
-    ✪ Winner, First Place, 2022 Massachusetts Institute of Technology Grand Hackathon: Hacking Medicine in Boston. <br>
-    ✪ Winner, 2022 Chainlink Fall Hackathon <br>
-    ✪ Winner, 2022 Hedera Hackathon <br>
-    ✪ Winner, Protocol Labs Prize, 2021 EthGlobal <br>
-    ✪ Winner, Best in NFT and Gaming, 2021 ChainLink <br>
-    ✪ Winner, Web 3 Enabled Student Transcript and Use of Identity Index, 2021 ETHDENVER <br>
-    ✪ Winner, 2020 MIT Hacking Racism in Healthcare for Clinical Trials <br>
-    ✪ Winner, 2018 New York City Techstars Competition, Blockchain Edition <br>
-    ✪ Winner, Parabellum Music Group Award, 2019 New York City Gotham Distributed Ledger Technology Competition <br>
-    ✪ Best in Data & Security, 2019 New York City Hackfest <br>
-    ✪ Runner up, 2019 New York City Angel Hack <br>
-    ✪ 2nd Runner Up NYC BIGAPPS, 2019 ConsenSys Building Blocks Hackathon <br>
-    ✪ Winner, 2018 Weil Cornell Medicine Award for Reimagining Lung Cancer in the New York City MIT Grand Hackathon: Hacking Medicine. <br>
+    ✪ 2023 Winner, Inclusion and Equality Track, Massachusetts Institute of Technology Reality Hack <br>
+    ✪ 2023 Winner, First Place IPFS Filecoin x Gitcoin Social Hour <br>
+    ✪ 2022 Winner, First Place, Massachusetts Institute of Technology Grand Hackathon: Hacking Medicine in Boston. <br>
+    ✪ 2022 Winner, Chainlink Fall Hackathon <br>
+    ✪ 2022 Winner, Hedera Hackathon <br>
+    ✪ 2021 Winner, Protocol Labs Prize, EthGlobal <br>
+    ✪ 2021 Winner, Best in NFT and Gaming, ChainLink <br>
+    ✪ 2021 Winner, Web 3 Enabled Student Transcript and Use of Identity Index, ETHDENVER <br>
+    ✪ 2020 Winner, Massachusetts Institute of Technology Hacking Medicine for Clinical Trials <br>
+    ✪ 2019 Winner, Parabellum Music Group Award, New York City Gotham Distributed Ledger Technology Competition <br>
+    ✪ 2019 Best in Data & Security, New York City Hackfest <br>
+    ✪ 2019 Runner up, New York City Angel Hack <br>
+    ✪ 2019 2nd Runner Up NYC BIGAPPS, ConsenSys Building Blocks Hackathon <br>
+    ✪ 2018 Winner, New York City Techstars Competition, Blockchain Edition <br>
+    ✪ 2018 Winner, Weil Cornell Medicine Award for Reimagining Lung Cancer @Massachusetts Institute of Technology Grand Hackathon: Hacking Medicine. <br>
 
 
     
