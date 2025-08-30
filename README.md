@@ -49,7 +49,7 @@
     ✪ 2019 Runner up, New York City Angel Hack <br>
     ✪ 2019 2nd Runner Up NYC BIGAPPS, ConsenSys Building Blocks Hackathon <br>
     ✪ 2018 Winner, New York City Techstars Competition, Blockchain Edition <br>
-    ✪ 2018 Winner, Weil Cornell Medicine Award for Reimagining Lung Cancer @Massachusetts Institute of Technology Grand Hackathon: Hacking Medicine. <br>
+    ✪ 2018 Winner, Weil Cornell Medicine Award for Reimagining Lung Cancer @Massachusetts Institute of Technology Hacking Medicine. <br>
 
 
     
