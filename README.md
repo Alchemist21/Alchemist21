@@ -29,8 +29,12 @@
     + Blockchain Lecture https://alchemist21.github.io/blockchainlecture/
     + Youtube Video https://www.youtube.com/@TechnologyTrainor
 
+-  ✨ Mentor <br> <br>
+    ✪ 2025 Massachusetts Institute of Technology Reality Hack <br>
+    ✪ 2025 New Venture Accelerator, City University of New York <br>
+
 -  🏆 Awards <br> <br>
-    ✪ Winner, Inclusion and Equality Track, 2023 MIT Reality Hack <br>
+    ✪ Winner, Inclusion and Equality Track, 2023 Massachusetts Institute of Technology Reality Hack <br>
     ✪ Winner, First Place, 2023 IPFS Filecoin x Gitcoin Social Hour <br>
     ✪ Winner, First Place, 2022 Massachusetts Institute of Technology Grand Hackathon: Hacking Medicine in Boston. <br>
     ✪ Winner, 2022 Chainlink Fall Hackathon <br>
@@ -45,6 +49,8 @@
     ✪ Runner up, 2019 New York City Angel Hack <br>
     ✪ 2nd Runner Up NYC BIGAPPS, 2019 ConsenSys Building Blocks Hackathon <br>
     ✪ Winner, 2018 Weil Cornell Medicine Award for Reimagining Lung Cancer in the New York City MIT Grand Hackathon: Hacking Medicine. <br>
+
+
     
 - 🛠️ Languages & Tools <br><br>
 
