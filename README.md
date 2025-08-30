@@ -10,7 +10,7 @@
 
 ###
 
-- 🌱 Currently Studying: Health Informatics @Weill Cornell Graduate School of Medicine
+- 🌱 Currently Studying: Health Informatics @Weill Cornell Medicine Graduate School 
 
 - 👯 I’m looking to collaborate on/with: Interesting projects
   
