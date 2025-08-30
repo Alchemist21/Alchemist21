@@ -10,7 +10,7 @@
 
 ###
 
-- 🌱 Currently Studying: Cobol
+- 🌱 Currently Studying: Health Informatics @Weill Cornell Graduate School of Medicine
 
 - 👯 I’m looking to collaborate on/with: Nice people
   
