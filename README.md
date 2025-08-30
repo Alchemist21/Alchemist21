@@ -33,6 +33,7 @@
     ✪ 2025 Massachusetts Institute of Technology Reality Hack <br>
     ✪ 2025 New Venture Accelerator, City University of New York <br>
 
+
 -  🏆 Awards <br> <br>
     ✪ Winner, Inclusion and Equality Track, 2023 Massachusetts Institute of Technology Reality Hack <br>
     ✪ Winner, First Place, 2023 IPFS Filecoin x Gitcoin Social Hour <br>
