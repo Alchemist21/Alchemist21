@@ -30,7 +30,7 @@
     + Blockchain Lecture https://alchemist21.github.io/blockchainlecture/
     + Youtube Video https://www.youtube.com/@TechnologyTrainor
 
--  ✨ Mentor <br> <br>
+-  ✨ Mentor <br> 
     + 2025 Massachusetts Institute of Technology Reality Hack <br>
     + 2025 New Venture Accelerator, City University of New York <br>
 
