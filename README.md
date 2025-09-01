@@ -17,6 +17,7 @@
 - ⚡ Fun fact: The human brain weighs only 3 lbs
 
 - 🚀 Featured Projects
+    + An AI-powered site selector platform that quickly identifies optimal sites that overlaps acetic acid production facilities and chemical production facility     https://lambco.netlify.app/ 
     + AI powered Risk Detector for Energy Contracts    https://github.com/Alchemist21/PowerIQ
     + Benvision https://devpost.com/software/benvision
     + Lung Cancer Prediction using Simple Machine Learning https://github.com/Alchemist21/mLungCa
