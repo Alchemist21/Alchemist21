@@ -17,18 +17,19 @@
 - ⚡ Fun fact: The human brain weighs only 3 lbs
 
 - 🚀 Featured Projects
-    + An AI-powered site selector platform that quickly identifies optimal sites that overlaps acetic acid production facilities and chemical production facility     https://lambco.netlify.app/ 
-    + AI powered Risk Detector for Energy Contracts    https://github.com/Alchemist21/PowerIQ
-    + Benvision https://devpost.com/software/benvision
+    + An AI-powered site selector platform that quickly identifies optimal sites that overlaps acetic acid production facilities and chemical production facility. Available at https://lambco.netlify.app/ 
+    + AI powered Risk Detector for Energy Contracts. Available at https://github.com/Alchemist21/PowerIQ
+    + Benvision. BEN enables the visually impaired to to navigate using computer vision and soundscapes. Available at https://devpost.com/software/benvision
     + Lung Cancer Prediction using Simple Machine Learning https://github.com/Alchemist21/mLungCa
-    + Spatial with Metamask https://spatialoracles-8b65a.web.app/
-    + Pixieland https://devpost.com/software/pixieland
+    + Spatial. Spatial enables research scientists to build geo-spatial maps that react with chainlink weather oracles with Metamask. Available at https://spatialoracles-8b65a.web.app/
+    + Pixieland. Pixieland empowers gamers with a metaversal play to earn game using dynamic digital assets with a cross chain marketplace. Available at https://devpost.com/software/pixieland
+    + DIGID. DIGID is a blockchain platform based on ceramic network where students and universities can share data in a secure manner.  Available at https://www.youtube.com/watch?v=ISH5iLWs5Vo&list=PLc-edA4lSZhQldhgpLan0A6sKu6Md_bWw&index=19
     + Image Classification using YOLO https://affectionate-blackwell-211345.netlify.app/
-    + THEO or Seamless B2B transaction using Double Hashing https://devpost.com/software/theo
-    + Blockchain for Clinical Trials https://github.com/Alchemist21/Clinical_Trial_Starter
-    + Sentiment Analysis Lecture https://alchemist21.github.io/Senti/
-    + Blockchain Lecture https://alchemist21.github.io/blockchainlecture/
-    + Youtube Video https://www.youtube.com/@TechnologyTrainor
+    + THEO or Seamless B2B transaction using Double Hashing. Available at https://devpost.com/software/theo
+    + Blockchain for Clinical Trials. Available at https://github.com/Alchemist21/Clinical_Trial_Starter
+    + Sentiment Analysis Lecture. Available at https://alchemist21.github.io/Senti/
+    + Blockchain Lecture. Available at https://alchemist21.github.io/blockchainlecture/
+    + Youtube Video. Available at https://www.youtube.com/@TechnologyTrainor
 
 -  ✨ Mentor <br> 
     + 2025 Massachusetts Institute of Technology Reality Hack <br>
