@@ -60,10 +60,7 @@
 
 🛠️ Languages & Tools <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
 
 </p>
 
