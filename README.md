@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left"> Stats </h2>
+<h2 align="center"> Stats </h2>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alchemist21&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alchemist21&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alchemist21&theme=radical" />
