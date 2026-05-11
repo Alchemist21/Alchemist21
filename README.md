@@ -32,7 +32,8 @@
     + Blockchain Lecture. Available at https://alchemist21.github.io/blockchainlecture/
     + Youtube Video. Available at https://www.youtube.com/@TechnologyTrainor
 
--  ✨ Mentor <br> 
+-  ✨ Mentor <br>
+    + 2026 Judge New Venture Accelerator, City University of New York
     + 2025 Massachusetts Institute of Technology Reality Hack <br>
     + 2025 New Venture Accelerator, City University of New York <br>
 
