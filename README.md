@@ -63,13 +63,13 @@
 ###
 
 <h2 align="center"> Stats </h2>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alchemist21&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alchemist21&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alchemist21&theme=radical" />
-<!--
-**Alchemist21/Alchemist21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="https://widgetbite.com/banner?title=Hello%20there&subtitle=&backgroundpalette=twilight&fontpalette=twilight&titletransform=skew&subtitletransform=skew" width=100% height=100%/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alchemist21&theme=radical" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alchemist21&theme=radical" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alchemist21&theme=radical" />
+</p>
 
 Here are some ideas to get you started:
 
