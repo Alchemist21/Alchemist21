@@ -56,18 +56,25 @@
 
 
     
-- 🛠️ Languages & Tools <br><br>
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+🛠️ Languages & Tools <br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+
+</p>
 
 ###
 
 <h2 align="center"> Stats </h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alchemist21&theme=radical" />
-  <br/>
+  <br/> <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alchemist21&theme=radical" />
-  <br/>
+  <br/> <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alchemist21&theme=radical" />
 </p>
 
