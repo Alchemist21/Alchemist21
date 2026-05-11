@@ -71,6 +71,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alchemist21&theme=radical" />
 </p>
 
+/*
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -81,4 +82,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> */
