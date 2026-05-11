@@ -58,7 +58,10 @@
     
 - 🛠️ Languages & Tools <br><br>
 
-     ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)   ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)   ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)   ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ###
 
